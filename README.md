@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @DhanyaMariya
-- 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning R,SQL,Spreadsheets,Tableau,Python
-- 💞️ I’m looking to collaborate on Entry level data analytics projects
+- 👋 Hi, I’m @DhanyaMariya.Welcome to My GitHub Profile.
+- 👀 I am a data analyst with a focus on the healthcare industry.I leverage analytical tools and methodologies to extract actionable insights from healthcare data.
+- 💡 I am committed to staying abreast of the latest developments in the field, exploring innovative approaches, and applying analytical techniques to solve real-world challenges.
+- 💞️ I'm always open to collaboration, discussions, and sharing insights within the data analysis and healthcare communities. 
 - 📫 How to reach me:dhanyaelizebeth103@gmail.com
 
 <!---
